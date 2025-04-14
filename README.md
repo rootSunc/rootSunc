@@ -20,8 +20,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 **Databases & Cloud:**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=FF9900)
+![Postgres](https://img.shields.io/badge/-MongoDB-47A248?logo=postgres&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
@@ -37,7 +37,7 @@ I’m currently building projects to showcase my full-stack expertise. Stay tune
 ---
 
 ### 📈 **GitHub Stats**  
-[![GitHub Streak](https://streak-stats.demolab.com?user=rootSunc&theme=dark&hide_border=true&date=20231015)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootSunc&layout=compact&theme=vision-friendly-dark)](https://github.com/rootSunc)
 
 ---
