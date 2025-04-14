@@ -37,7 +37,7 @@ I’m currently building projects to showcase my full-stack expertise. Stay tune
 ---
 
 ### 📈 **GitHub Stats**  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=rootSunc&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootSunc&layout=compact&theme=vision-friendly-dark)](https://github.com/rootSunc)
 
 ---
