@@ -3,7 +3,7 @@
 **💻 Full-Stack Developer | ☁️ Cloud Enthusiast | 📷 Weekend Photographer**  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chao-sun-61a458148/)
 ![Profile Views](https://komarev.com/ghpvc/?username=rootSunc&style=for-the-badge&color=blueviolet)
 
 ---
@@ -37,11 +37,10 @@ I’m currently building projects to showcase my full-stack expertise. Stay tune
 ---
 
 ### 📈 **GitHub Stats**  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rootSunc&theme=dark)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=rootSunc&theme=dark&hide_border=true&date=20231015)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootSunc&layout=compact&theme=vision-friendly-dark)](https://github.com/rootSunc)
 
 ---
 
 ### 📫 **Let's Connect!**  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chao.sun.me@gmail.com)
